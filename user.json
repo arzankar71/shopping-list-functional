@@ -1,0 +1,23 @@
+[
+    {
+        "username": "alireza",
+        "password": "arzankar",
+        "birthday": "10/10",
+        "phone": "222",
+        "wallet": 5.0
+    },
+    {
+        "username": "behnam",
+        "password": "taebi",
+        "birthday": "12/12",
+        "phone": "123",
+        "wallet": 20.0
+    },
+    {
+        "username": "saeed",
+        "password": "rezaie",
+        "birthday": "11/11",
+        "phone": "333",
+        "wallet": 20.0
+    }
+]
